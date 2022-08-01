@@ -1,7 +1,5 @@
 import os
 from moviepy.editor import VideoFileClip
-import pathlib
-import urllib.request
 import requests
 
 
